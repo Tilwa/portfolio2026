@@ -21,16 +21,16 @@ export const projects = [
     image: timeslink,
   },
 
-  {
-    id: 2,
-    title: "Vocabup Nextjs App",
-    description:
-      "Vocabulary builder app using Next.js, Redux Toolkit, Prisma, and PostgreSQL. Features interactive cards with multiple-choice answers and animations.",
-    technologies: ["React", "Next.js", "Redux Toolkit", "PostgreSQL", "Prisma"],
-    category: "nextjs",
-    github: "https://github.com/Tilwa/vocabup",
-    live: "http://codesbyshahrukh.online/",
-    featured: true,
-    image: vocabup,
-  },
+  // {
+  //   id: 2,
+  //   title: "Vocabup Nextjs App",
+  //   description:
+  //     "Vocabulary builder app using Next.js, Redux Toolkit, Prisma, and PostgreSQL. Features interactive cards with multiple-choice answers and animations.",
+  //   technologies: ["React", "Next.js", "Redux Toolkit", "PostgreSQL", "Prisma"],
+  //   category: "nextjs",
+  //   github: "https://github.com/Tilwa/vocabup",
+  //   live: "http://codesbyshahrukh.online/",
+  //   featured: true,
+  //   image: vocabup,
+  // },
 ];
