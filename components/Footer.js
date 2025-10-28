@@ -13,7 +13,7 @@ export default function Footer() {
     { icon: FaTwitter, href: "https://x.com/ShahrukhAltaf3", label: "Twitter" },
     {
       icon: FaEnvelope,
-      href: "mailto:shahrukhaltaf93@gmail.com",
+      href: "mailto:shahrukhaltaf123@gmail.com",
       label: "Email",
     },
   ];

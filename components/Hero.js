@@ -123,7 +123,7 @@ export default function Hero() {
                 <FaTwitter size={24} />
               </a>
               <a
-                href="mailto:shahrukhaltaf93@gmail.com"
+                href="mailto:shahrukhaltaf123@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-white hover:text-blue-300 transition-colors p-3 rounded-full border border-white/20 hover:border-white/40"

@@ -57,8 +57,8 @@ export default function Contact() {
     {
       icon: FaEnvelope,
       title: "Email",
-      value: "shahrukhaltaf93@gmail.com",
-      link: "mailto:shahrukhaltaf93@gmail.com",
+      value: "shahrukhaltaf123@gmail.com",
+      link: "mailto:shahrukhaltaf123@gmail.com",
     },
     {
       icon: FaPhone,
