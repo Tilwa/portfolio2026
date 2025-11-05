@@ -1,6 +1,6 @@
-import vocabup from "@/app/assets/projectsImages/vocabup.png";
-import timeslink from "@/app/assets/projectsImages/timeslink.png";
-import crud from "@/app/assets/projectsImages/crud.png";
+import vocabup from "../app/assets/projectsImages/vocabup.png";
+import timeslink from "../app/assets/projectsImages/timeslink.png";
+import crud from "../app/assets/projectsImages/crud.png";
 
 export const projects = [
   {
@@ -30,7 +30,7 @@ export const projects = [
     technologies: ["React", "Next.js", "Redux Toolkit", "PostgreSQL", "Prisma"],
     category: "nextjs",
     github: "https://github.com/Tilwa/vocabup",
-    live: "http://codesbyshahrukh.online/",
+    live: "http://vocabup.codesbyshahrukh.online/",
     featured: true,
     image: vocabup,
   },
@@ -38,8 +38,8 @@ export const projects = [
     id: 100,
     title: "CRUD Next.js Application",
     description:
-      "A full-stack CRUD web app built with Next.js, Prisma, and PostgreSQL. It allows users to create, read, update, and delete records seamlessly with a clean UI and secure backend integration.",
-    technologies: ["Next.js", "React", "Prisma", "PostgreSQL", "Node.js"],
+      "CRUD app using Nextjs, Prisma & Postgres. Features secure data management with create, read, update, & delete operations in a clean responsive interface.",
+    technologies: ["Next.js", "React", "Prisma", "PostgreSQL", "Tailwind CSS"],
     category: "nextjs",
     github: "https://github.com/Tilwa/nextjs-crud",
     live: "https://crud.codesbyshahrukh.online/",
